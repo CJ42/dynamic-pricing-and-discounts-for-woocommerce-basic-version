@@ -1,0 +1,18 @@
+.deleting{
+background-color:#ef8a8a;
+}
+.editing{
+background-color:lightblue;
+}
+
+.nav-tab{
+background-color:#deeaea;
+}
+.nav-tab-active{
+background-color:#f1f1f1;
+}
+
+
+[aria-selected="true"] {
+  display:none;
+}

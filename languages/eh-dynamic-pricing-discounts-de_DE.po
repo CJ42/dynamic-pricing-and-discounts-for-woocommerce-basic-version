@@ -1,0 +1,931 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dynamic Pricing and Discounts for WooCommerce\n"
+"POT-Creation-Date: 2017-05-29 12:49+0530\n"
+"PO-Revision-Date: 2017-05-29 12:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: eh-dynamic-pricing-discounts.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-admin-actions-function.php:33
+#, fuzzy
+msgid "Dynamic Pricing"
+msgstr "Dynamische Preise"
+
+#: admin/data/buy_get_free_rules/save-options.php:65
+#: admin/data/cart_rules/save-options.php:52
+#: admin/data/cat_combinational_rules/save-options.php:60
+#: admin/data/category_rules/save-options.php:55
+#: admin/data/combinational_rules/save-options.php:60
+#: admin/data/product_rules/save-options.php:83
+#: admin/data/settings_page/save-options.php:34
+#, fuzzy
+msgid "Saved Successfully"
+msgstr "Erfolgreich gespeichert"
+
+#: admin/data/buy_get_free_rules/save-options.php:73
+#: admin/data/cart_rules/save-options.php:60
+#: admin/data/cat_combinational_rules/save-options.php:68
+#: admin/data/category_rules/save-options.php:63
+#: admin/data/combinational_rules/save-options.php:68
+#: admin/data/product_rules/save-options.php:91
+#: admin/data/settings_page/save-options.php:42
+#, fuzzy
+msgid "Please Enter All Fields!! Then Save"
+msgstr "Geben Sie bitte alle Felder aus! Dann speichern"
+
+#: admin/data/buy_get_free_rules/update-options.php:8
+#: admin/data/cart_rules/update-options.php:9
+#: admin/data/cat_combinational_rules/update-options.php:8
+#: admin/data/category_rules/update-options.php:8
+#: admin/data/combinational_rules/update-options.php:8
+#: admin/data/product_rules/update-options.php:9
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:387
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:108
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:214
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:134
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:220
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:197
+#, fuzzy
+msgid "Update Rule"
+msgstr "Ändern Stichwort Regel"
+
+#: admin/data/buy_get_free_rules/update-options.php:48
+#: admin/data/cart_rules/update-options.php:32
+#: admin/data/cat_combinational_rules/update-options.php:47
+#: admin/data/category_rules/update-options.php:32
+#: admin/data/combinational_rules/update-options.php:43
+#: admin/data/product_rules/update-options.php:58
+#, fuzzy
+msgid "Updated Successfully"
+msgstr "Erfolgreich aktualisiert"
+
+#: admin/data/buy_get_free_rules/update-options.php:56
+#: admin/data/cart_rules/update-options.php:40
+#: admin/data/cat_combinational_rules/update-options.php:55
+#: admin/data/category_rules/update-options.php:40
+#: admin/data/combinational_rules/update-options.php:51
+#: admin/data/product_rules/update-options.php:66
+#, fuzzy
+msgid "Please Enter All Fields ,Then Try To Update!!"
+msgstr "Bitte füllen Sie alle Felder aus, dann versuchen Sie, Update!!"
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:100
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:209
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:30
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:43
+#, fuzzy
+msgid "#Row no"
+msgstr "Reihe Nr."
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:101
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:210
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:44
+#, fuzzy
+msgid "Product Name"
+msgstr "Produktname"
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:102
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:211
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:32
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:45
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:7
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:7
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:113
+#, fuzzy
+msgid "Quantity"
+msgstr "Menge"
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:124
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:133
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:170
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:175
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:233
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:242
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:279
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:284
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:67
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:79
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:110
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:113
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:20
+#: includes/common-functions.php:29 includes/common-functions.php:46
+#, fuzzy
+msgid "Search for a product&hellip;"
+msgstr "Nach einem Produkt suchen product&hellip;"
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:198
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:307
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:125
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:132
+#, fuzzy
+msgid "Add Rule"
+msgstr "Regel hinzufügen"
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:316
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:12
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:132
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:12
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:139
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:5
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:5
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:5
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:5
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:5
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:5
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:44
+#, fuzzy
+msgid "Offer Name"
+msgstr "Angebot-Name"
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:317
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:13
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:133
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:14
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:140
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:13
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:15
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:14
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:16
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:14
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:17
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:47
+#, fuzzy
+msgid "Adjustment"
+msgstr "Einstellung"
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:318
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:20
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:137
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:21
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:144
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:10
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:12
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:11
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:13
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:11
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:14
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:134
+#, fuzzy
+msgid "Allowed Roles"
+msgstr "Erlaubte Rollen"
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:319
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:364
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:21
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:85
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:138
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:192
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:22
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:111
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:145
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:198
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:11
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:13
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:12
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:14
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:12
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:15
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:135
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:179
+#, fuzzy
+msgid "From Date"
+msgstr "Von Datum"
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:320
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:370
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:22
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:91
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:139
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:198
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:23
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:117
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:146
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:204
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:12
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:14
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:13
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:15
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:13
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:16
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:136
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:185
+#, fuzzy
+msgid "To Date"
+msgstr "Bis Datum"
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:348
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:69
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:176
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:95
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:182
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:163
+#, fuzzy
+msgid "All"
+msgstr "Alle"
+
+#: admin/view/tabs/selected-tab-content/buy_get_free_rule-tab.php:391
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:112
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:218
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:138
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:224
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:201
+#, fuzzy
+msgid "Save New Rule"
+msgstr "Neue Regel"
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:14
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:15
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:6
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:7
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:8
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:48
+#, fuzzy
+msgid "Check on"
+msgstr "An"
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:15
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:16
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:7
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:8
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:9
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:129
+#: public/xa-single-product-pricing-table.php:24
+#, fuzzy
+msgid "Min"
+msgstr "Min."
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:16
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:17
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:8
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:9
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:10
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:130
+#: public/xa-single-product-pricing-table.php:24
+msgid "Max"
+msgstr "Maximal"
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:17
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:134
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:18
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:141
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:9
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:8
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:10
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:8
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:11
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:131
+#, fuzzy
+msgid "Discount Type"
+msgstr "Rabatt Typ"
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:18
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:135
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:19
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:142
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:10
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:9
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:11
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:9
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:12
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:132
+#, fuzzy
+msgid "Value"
+msgstr "Wert"
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:19
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:136
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:20
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:143
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:11
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:10
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:12
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:10
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:13
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:133
+#, fuzzy
+msgid "Max Discount"
+msgstr "Maximaler Rabatt (%)"
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:42
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:68
+#, fuzzy
+msgid "No. of Items"
+msgstr "Anzahl der Einträge"
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:43
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:69
+#, fuzzy
+msgid "Total Quantity"
+msgstr "Gesamtmenge"
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:44
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:70
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:114
+#, fuzzy
+msgid "Weight"
+msgstr "Gewichtung"
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:45
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:71
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:115
+#, fuzzy
+msgid "Price"
+msgstr "Preis"
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:52
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:159
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:78
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:165
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:144
+#, fuzzy
+msgid "Percent Discount"
+msgstr "% Rabatt"
+
+#: admin/view/tabs/selected-tab-content/cart-rule-tab.php:53
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:160
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:79
+#: admin/view/tabs/selected-tab-content/combinational-rule-tab.php:166
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:145
+#, fuzzy
+msgid "Flat Discount"
+msgstr "Rabatt"
+
+#: admin/view/tabs/selected-tab-content/cat-combinational-rule-tab.php:31
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:6
+#, fuzzy
+msgid "Category Name"
+msgstr "Name der Kategorie"
+
+#: admin/view/tabs/selected-tab-content/category-rule-tab.php:13
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:6
+#, fuzzy
+msgid "Category"
+msgstr "Kategorie"
+
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:4
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:4
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:4
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:4
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:4
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:4
+#, fuzzy
+msgid "Rule no."
+msgstr "Regel keine."
+
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:6
+#, fuzzy
+msgid "Purchased Product"
+msgstr "Gekaufte Produkt"
+
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:7
+#, fuzzy
+msgid "Purchased Quantity"
+msgstr "Gekaufte Menge"
+
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:8
+#, fuzzy
+msgid "Free Product"
+msgstr "Gratis Produkt"
+
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:9
+#, fuzzy
+msgid "Free Quantity"
+msgstr "Menge"
+
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:14
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:16
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:15
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:17
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:15
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:19
+#, fuzzy
+msgid "Alter"
+msgstr "Alter:"
+
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:15
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:94
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:17
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:64
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:16
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:79
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:18
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:70
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:16
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:77
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:20
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:99
+#, fuzzy
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/view/tabs/selected-tab-content/display-saved-buy_get_free_rules-table.php:93
+#: admin/view/tabs/selected-tab-content/display-saved-cart_rules-table.php:63
+#: admin/view/tabs/selected-tab-content/display-saved-cat_combinational_rules-table.php:78
+#: admin/view/tabs/selected-tab-content/display-saved-category_rules-table.php:69
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:76
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:98
+#, fuzzy
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: admin/view/tabs/selected-tab-content/display-saved-combinational_rules-table.php:6
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:46
+#, fuzzy
+msgid "Product"
+msgstr "Produkt"
+
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:6
+#, fuzzy
+msgid "Rule on"
+msgstr "Regel keine."
+
+#: admin/view/tabs/selected-tab-content/display-saved-product_rules-table.php:7
+#, fuzzy
+msgid "Product/Category"
+msgstr "Produkt Kategorie"
+
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:45
+#, fuzzy
+msgid "Rule On"
+msgstr "Regel keine."
+
+#: admin/view/tabs/selected-tab-content/product-rule-tab.php:146
+#: public/xa-single-product-pricing-table.php:86
+#, fuzzy
+msgid "Fixed Price"
+msgstr "Festpreis"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:74
+#, fuzzy
+msgid "Modes"
+msgstr "Modi"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:78
+#: admin/view/tabs/tabs-html-render.php:16
+#, fuzzy
+msgid "Product Rules"
+msgstr "Produkt-Regeln"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:89
+#: admin/view/tabs/tabs-html-render.php:17
+#, fuzzy
+msgid "Combinational Rules"
+msgstr "Kombinatorische Regeln"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:100
+#: admin/view/tabs/tabs-html-render.php:19
+#, fuzzy
+msgid "Category Rules"
+msgstr "Kategorieregeln"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:112
+#, fuzzy
+msgid "Cart Rules "
+msgstr "Warenkorb-Regeln"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:124
+#, fuzzy
+msgid "Buy and Get Free Rules "
+msgstr "Kaufen Sie und erhalten Sie kostenlose Regeln"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:136
+#: admin/view/tabs/tabs-html-render.php:18
+#, fuzzy
+msgid "Category Combinational Rules"
+msgstr "Kategorie kombinatorische Regeln"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:153
+#, fuzzy
+msgid "Functionality"
+msgstr "Funktionalität"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:158
+#, fuzzy
+msgid "Display Prices Table on Product Page"
+msgstr "Tabelle Preise auf Produktseite anzeigen"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:166
+#, fuzzy
+msgid ""
+"(Valid only for \"Product Rules\", and atleast 2 product rules should be "
+"there to get this table)"
+msgstr ""
+"(Gültig nur für \"Produkt, und mindestens 2 Produkt-Regeln gibt es zu dieser "
+"Tabelle sollte)"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:172
+#, fuzzy
+msgid "Position of Pricing Table on Product Page"
+msgstr "Position der Tabelle auf Produktseite Preisgestaltung"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:176
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:213
+#, fuzzy
+msgid "Before Product"
+msgstr "Vor dem Produkt"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:177
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:214
+#, fuzzy
+msgid "After Product"
+msgstr "Nach dem Produkt"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:178
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:215
+#, fuzzy
+msgid "Before Product Summary"
+msgstr "Vor Produktübersicht"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:179
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:216
+#, fuzzy
+msgid "In Product Summary"
+msgstr "Produktübersicht"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:180
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:217
+#, fuzzy
+msgid "After Product Summary"
+msgstr "Nach der Produktübersicht"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:181
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:218
+#, fuzzy
+msgid "Before Add To Cart Button"
+msgstr "Vor dem Kauf-Button"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:182
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:219
+#, fuzzy
+msgid "After Add To Cart Button"
+msgstr "Nach dem Kauf-Button"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:183
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:220
+#, fuzzy
+msgid "Before Add To Cart Form"
+msgstr "Vor \"Zum Warenkorb hinzufügen\""
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:184
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:221
+#, fuzzy
+msgid "After Add To Cart Form"
+msgstr "Nach \"In den Warenkorb\""
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:185
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:222
+#, fuzzy
+msgid "Product Thumbnails"
+msgstr "Produkt-Miniaturbilder"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:186
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:223
+#, fuzzy
+msgid "Product Meta Start"
+msgstr "Produkt-Meta-Start"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:187
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:224
+#, fuzzy
+msgid "Product Meta End"
+msgstr "Produkt Meta"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:194
+#, fuzzy
+msgid "Display Offers Table on Product Page"
+msgstr "Angebote-Tabelle auf Produktseite anzeigen"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:203
+#, fuzzy
+msgid "(Valid For All Rules)"
+msgstr "(Gültig für alle Regeln)"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:209
+#, fuzzy
+msgid "Position of Offers Table on Product Page"
+msgstr "Position bietet Tabelle auf Produktseite"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:232
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:237
+#, fuzzy
+msgid "Short Code For Quantity:"
+msgstr "Kürzel für Quantität:"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:245
+#, fuzzy
+msgid "Automatically Add Free Product to cart"
+msgstr "Automatisch Produkt gratis ins Warenkorb legen"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:253
+#, fuzzy
+msgid ""
+"( if purchased and free products are same in rule then it will be "
+"automatically added to cart )"
+msgstr ""
+"(Wenn gekaufte und kostenlose Produkte in der Regel gleich sind, dann es "
+"automatisch dem Warenkorb hinzugefügt werden)"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:260
+#, fuzzy
+msgid "Show Discounts on each Line Item on Cart Page"
+msgstr "Rabatte auf jede Position auf der Warenkorb-Seite anzeigen"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:268
+#, fuzzy
+msgid ""
+"(  To use this feature \"Buy and Get Free Offers\" should be disabled "
+"[above] )"
+msgstr ""
+"(Zur Verwendung dieser Funktion \"kaufen und erhalten kostenlose Angebote\" "
+"sollte [oben] deaktiviert werden)"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:274
+#, fuzzy
+msgid "Calculation Mode"
+msgstr "Kalkulationsmodus"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:282
+#, fuzzy
+msgid ""
+"( Strict mode uses strict check for Min and Max attributes of rules against "
+"the products ,works for product rules )"
+msgstr ""
+"(Strict-Modus nutzt strengen Kontrolle für Min und Max Attribute Regeln "
+"gegen die Produkte, Werke für Produkt-Regeln)"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:288
+msgid "Speed-up Shop Page"
+msgstr "Beschleunigen Shop Seite"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:295
+#, fuzzy
+msgid ""
+"( if this mode is enabled user will not see discounted price on shop page."
+"The discount will be directly applied on cart page)"
+msgstr ""
+"(wenn dieser Modus aktiviert ist Benutzer sehen keine ermäßigten Preis auf "
+"Shop-Seite. Der Rabatt wird direkt im Warenkorb-Seite angewendet werden)"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:301
+msgid "Speed-up Product Page"
+msgstr "Beschleunigen Produktseite"
+
+#: admin/view/tabs/selected-tab-content/settings_page-tab.php:308
+#, fuzzy
+msgid ""
+"( if this mode is enabled user will not see discounted price on product page."
+"The discount will be directly applied on cart page)"
+msgstr ""
+"(wenn dieser Modus aktiviert ist Benutzer sehen keine ermäßigten Preis auf "
+"der Produktseite. Der Rabatt wird direkt im Warenkorb-Seite angewendet "
+"werden)"
+
+#: admin/view/tabs/tabs-html-render.php:2
+#, fuzzy
+msgid "Dynamic Pricing Main Page"
+msgstr "Dynamische Preisgestaltung Main Page"
+
+#: admin/view/tabs/tabs-html-render.php:20
+#, fuzzy
+msgid "Cart Rules"
+msgstr "Warenkorb-Regeln"
+
+#: admin/view/tabs/tabs-html-render.php:21
+#, fuzzy
+msgid "Buy And Get Free (Offers)"
+msgstr "Kaufen und erhalten Sie kostenlos (Angebote)"
+
+#: admin/view/tabs/tabs-html-render.php:22
+#, fuzzy
+msgid "Settings"
+msgstr "Optionen"
+
+#: eh-dynamic-pricing-discounts.php:44
+#, fuzzy
+msgid ""
+"Oops! You tried installing the premium version without deactivating and "
+"deleting the basic version. Kindly deactivate and delete Dynamic Pricing and "
+"Discounts for WooCommerce Extension and then try again"
+msgstr ""
+"Hoppla! Sie versucht, die Premium-Version ohne deaktivieren und löschen die "
+"basic-Version zu installieren. Deaktivieren Sie bitte und löschen Sie "
+"dynamische Preise und Rabatte für WooCommerce Erweiterung und versuchen Sie "
+"es erneut"
+
+#: eh-dynamic-pricing-discounts.php:125
+#, fuzzy
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: eh-dynamic-pricing-discounts.php:126
+#, fuzzy
+msgid "Support"
+msgstr "Unterstützung"
+
+#: eh-dynamic-pricing-discounts.php:144
+#, fuzzy
+msgid "View details"
+msgstr "Details anzeigen"
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:373
+#, fuzzy, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Der Lizenzschlüssel für %s ist ausgelaufen. Du kannst einen neuen Schlüssel "
+"von deinem <a href=\"%s\" target=\"_blank\">Account-Dashboard kaufen</a>."
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:384
+#, fuzzy, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Das Abo für %s ist ausgesetzt. Du kannst das Abo von deinem <a href=\"%s\" "
+"target=\"_blank\">Account-Dashboard</a> aus reaktivieren."
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:395
+#, fuzzy, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"Das Abo für %s wurde beendet. Du kannst es von deinem <a href=\"%s\" target="
+"\"_blank\">Account-Dashboard</a> aus erneuern. Ein neuer Lizenzschlüssel "
+"wird an deine E-Mail-Adresse geschickt, sobald die Bestellung abgeschlossen "
+"ist."
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:406
+#, fuzzy, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Das Abo für %s ist ausgelaufen. Du kannst es über dein <a href=\"%s\" target="
+"\"_blank\">Account-Dashboard</a> erneuern."
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:417
+#, fuzzy, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:428
+#, fuzzy, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:439
+#, fuzzy, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:450
+#, fuzzy, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:461
+#, fuzzy, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate license key at your plugin <a href=\"%s\" target=\"_blank"
+"\">settings page</a>."
+msgstr ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:472
+#, fuzzy, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:483
+#, fuzzy, php-format
+msgid ""
+"%s has not been activated. Go to the plugin <a href=\"%s\" target=\"_blank"
+"\">settings page</a> and enter the license key and license email to activate "
+"%s."
+msgstr ""
+"%s Wurde nicht aktiviert. Gehen Sie zum Plugin <a href=\"%s\" target=\"_blank"
+"\">Einstellungen</a> Und geben Sie den Lizenzschlüssel und Lizenz-E-Mail zu "
+"aktivieren %s."
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:494
+#, fuzzy, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+
+#: public/class-xa-dynamic-pricing-plugin-public.php:361
+#, fuzzy, php-format
+msgctxt "Price range: from-to"
+msgid "%1$s &ndash; %2$s"
+msgstr "%1$s &ndash; %2$s"
+
+#: public/xa-single-product-offer-table.php:69
+msgid "Offers"
+msgstr "Offerten"
+
+#: public/xa-single-product-pricing-table.php:23
+msgid "Bulk Product Offers"
+msgstr "Bulk Produkt Offerten"
+
+#: public/xa-single-product-pricing-table.php:24
+msgid "Offer"
+msgstr "Offerte"
+
+#: public/xa-single-product-pricing-table.php:38
+#, fuzzy
+msgid "nos"
+msgstr "Nrn."
+
+#: public/xa-single-product-pricing-table.php:84
+#: public/xa-single-product-pricing-table.php:85
+msgid "Discount"
+msgstr "Rabatt"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "Dynamic Pricing and Discounts for WooCommerce"
+msgstr "Dynamische Preise und Rabatte für WooCommerce"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://www.xadapter.com/product/dynamic-pricing-discounts-woocommerce/"
+msgstr ""
+"https://www.xadapter.com/product/Dynamic-Pricing-Discounts-WooCommerce/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"This plugin helps you to set discounts and pricing dynamically based on "
+"minimum quantity,weight,price and allow you to set maximum allowed discounts "
+"on every rule."
+msgstr ""
+"Dieses Plugin hilft Ihnen, Rabatte und Preise dynamisch basierend auf "
+"Mindestmenge, Gewicht, Preis und ermöglichen maximale Rabatte auf jede Regel "
+"erlaubt."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "ExtensionHawk"
+msgstr "ExtensionHawk"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://www.xadapter.com/vendor/extensionhawk/"
+msgstr "https://www.xadapter.com/vendor/extensionhawk/"
